@@ -21,7 +21,7 @@ This is a real-time multiplayer quiz game built with **React**, **Node.js**, **E
 ### 1. Clone the Repository
 
 ```sh
-git clone https://github.com/your-repo/QUIZ.git
+git clone https://github.com/Yashugupta3657/Quiz.git
 cd quiz-game
 ```
 
